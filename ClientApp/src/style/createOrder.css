@@ -1,0 +1,20 @@
+.createOrder>.table{
+    display: flex;
+}
+.createOrder>.table>div{
+    width: 50%;
+    margin: 0 1rem;
+}
+.btn-group.right{
+    margin: 1rem;
+    display: flex;    
+    justify-content: flex-end;
+}
+.btn-group.right>button,.btn-group.right>a {
+    width: 15rem;
+    display: block;
+    flex: none;
+}
+.createOrder>.footer{
+    margin: 0 1rem;
+}
